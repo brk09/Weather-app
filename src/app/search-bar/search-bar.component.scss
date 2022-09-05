@@ -1,0 +1,18 @@
+input {
+  border-radius: 5px;
+  width: 90%;
+  height: 25px;
+  background: var(--secondary-color);
+  border: none;
+}
+
+input:focus {
+  background: var(--secondary-color);
+}
+
+button {
+  height: 30px;
+  background: var(--secondary-color);
+  border-radius: 5px;
+  margin-left: 2px;
+}
